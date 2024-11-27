@@ -2,17 +2,18 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: San Jose State University, Master of Computer Science 
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+      - Completed while working full-time
+    date: Sep. 2005 - May. 2008
+  - title: UC Berkeley, Electrical Engineering and Computer Science, BS
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - Transfer student from Santa Rosa Junior College
+      - Graduated in just two years
+    date: Sep. 1998 - May. 2000
+  - title: Santa Rosa Junior College,  Computer Science, AS
+    description:
+       - Immigrated from China in 1994, began college a year later
+       - Progressed from ESL courses to Computer Science
+    date: Sep. 1995 - May. 1998
+

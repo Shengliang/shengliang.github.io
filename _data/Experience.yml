@@ -2,21 +2,69 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
-    description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+   - title: TikTok, San Jose, CA
+   - role: Senior Software Engineer 
+   - description:
+       - Led the development of DDL queries in a MySQL cluster with N-shard writers, and implemented a proof-of-concept project for distributed query processing.
+       - Design and implemented bufferpool and heap memory autoscale in addition to the current cpu-based autoscale.
+       - Design pipeline to run code coverage and generate daily reports. Authored the ByteNDB Compile & Run cookbook; shortened the learning curve for new team members, improving team onboarding and productivity.  
+       - Mentored interns and participated in the recruitment process by conducting interviews and making hiring decisions, contributing to the development of a skilled and diverse team.
+   - date: May 2022 - Present
+
+   - title: Microsoft, Mountain View, CA 
+   - role: Senior Software Engineer 
+   - description:
+       - Implemented asynchronous DDL physical replication within a replica group for MySQL8, resulting in improved replication speed and overall user experience. Reduced replication lag and improved system performance.
+       - Participated in on-call support for Azure databases, including MySQL and PostgreSQL products, ensuring timely and effective resolution of customer issues. Increased collaboration across teams, improved customer satisfaction, and enhanced technical proficiency.
+   - date: Jan. 2020 - Mar. 2022, 
+
+
+   - title: Amazon, East Palo Alto, CA
+   - role: Aurora Software Engineer 
+   - description:
+       - Trained Primary-On-Call engineers on DDL Recovery and MySQL Metadata Lock issues through hands-on exercises, enhancing their technical proficiency and enabling them to effectively handle complex issues. Reduced resolution time for DDL Recovery and Metadata Lock issues.
+       - Contributed to various projects including Aurora Fast DDL features reducing query time from hours to seconds (1000x faster), Porting from MySQL 5.6 to 5.7, Parallel-Query processing, and multi-master DDL features, improving product functionality and enabling better user experience. Increased customer satisfaction and improved product quality.
+   - date: Dec.  2016 - Jan. 2020
+
+   - title: Google, Mountain View, CA
+   - role: Senior Software Engineer 
+   - description:
+       - Designed and implemented battery firmware over-the-air update for Chromebook, resulting in significant cost savings by avoiding the need to ship Chromebooks back for manual fixes. 
+       - Conducted over 200 interviews and served on the Hire Committee, playing a key role in hiring top talent for the company. Helped streamline the recruitment process, resulting in faster hiring and increased candidate satisfaction (61 days).
+       - Taught interviewer training classes to 400+ googlers which enhanced interviewing skills and ensured a consistent hiring process across teams. Taught a firmware class to 200+ googlers in the g2g program, sharing knowledge across the organizations.
+
+   - date: Mar. 2014 - Jun. 2016
+
+   - title: Broadcom Corporation, Santa Clara, CA 
+   - role: Staff Software Engineer 
+   - description:
+       - Improved DDR3 memory controller frequency from 666MHz to 800MHz through implementing Read Training and Write Leveling.
+       - Collaborated with a team of 10+ engineers to successfully bring up XLPII multicore processors.
+       - Conducted openocd/gdb debug training sessions for 15 RTL verification and software team members.
+   - date: May 2011 - Nov. 2013
+
+   - title: LinkAMedia Devices, Santa Clara, CA
+   - role: Staff Firmware Engineer 
+   - description:
+       - Led the end-to-end Hybrid HDD Firmware Project and integrated Toshiba Host interface API
+         from the design phase to SoC bring-up within a timeline of 6 months. 
+       - Developed NAND Flash Management and SSD failure analysis components that improved
+         the overall system reliability and facilitated root cause analysis.
+       - Collaborated effectively with cross-functional teams to resolve PCIe Gen2 Physical link retrain issues,
+         resulting in improved system performance and stability. 
+   - date: Oct. 2009 - May 2011
+
+  - title: Bay Microsystems Inc, San Jose, CA
+  - role: Architectural Modeling 
+  - description: 
+      - Designed ODU Overhead termination and generation and OTN FEC model in SystemC.
+      - Developed sample Linux network applications
+  - date: Jul. 2006 - Oct. 2009
+
+  - title: Cisco Systems Inc. San Jose, CA
+  - role: Diagnostic Software Engineer 
+  - description:
+      - Brought up one Cat6K and 7600 family line card: Embedded Logic Analyzer, Channelized OC12, PowerPC MPC8548,
+        and EZchip, and Shared Port Adapters.
+      - Trained manufacturing partners to isolate component level failures to improve yields.
+  - date: May. 2000 - Jul. 2006
