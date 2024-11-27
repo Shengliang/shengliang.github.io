@@ -14,7 +14,7 @@ blog_url: homepage-url
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
-baseurl: 
+baseurl:
 
 exclude:
   - _posts/
